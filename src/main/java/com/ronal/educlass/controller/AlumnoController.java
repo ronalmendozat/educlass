@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/alumno")
+@RequestMapping("/api/v1/alumno")
 @Slf4j
 public class AlumnoController {
 

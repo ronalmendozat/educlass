@@ -4,8 +4,8 @@ import com.ronal.educlass.entity.Alumno;
 import com.ronal.educlass.repository.IAlumnoRepository;
 import com.ronal.educlass.service.IAlumnoService;
 import com.ronal.educlass.utils.AlumnoUtils;
+import com.ronal.exception.exception.BusinessException;
 import lombok.extern.slf4j.Slf4j;
-import org.ronal.exceptionr.custom.BusinessException;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 

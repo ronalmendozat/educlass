@@ -76,9 +76,9 @@
 
 		<!-- EXCEPTION R -->
 		<dependency>
-			<groupId>org.ronal.exceptionr</groupId>
-			<artifactId>exception</artifactId>
-			<version>1.0-SNAPSHOT</version>
+            <groupId>com.ronal.exception</groupId>
+            <artifactId>exception-lib</artifactId>
+            <version>1.0.0</version>
 		</dependency>
 
 		<!-- JASPER REPORTS -->

@@ -3,9 +3,9 @@ package com.ronal.educlass.jasper.service;
 import com.ronal.educlass.entity.Alumno;
 import com.ronal.educlass.jasper.datasource.DataSourceAlumno;
 import com.ronal.educlass.jasper.dto.AlumnoPdf;
+import com.ronal.exception.exception.BusinessException;
 import net.sf.jasperreports.engine.*;
 import org.apache.commons.lang3.StringUtils;
-import org.ronal.exceptionr.custom.BusinessException;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 
